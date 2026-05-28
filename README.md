@@ -1,3 +1,4 @@
+https://sumantacollage2004-hub.github.io/CodeAlpha_ecommerce/
 # LUXECART — Full-Stack E-Commerce Store
 > Premium e-commerce site with Django backend & vanilla JS frontend. All prices in **INR (₹)**
 
